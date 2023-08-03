@@ -33,6 +33,7 @@
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-vue": "^9.7.0",
+    "gh-pages": "^5.0.0",
     "shelljs": "^0.8.5",
     "vite": "^3.0.8",
     "vite-plugin-eslint": "^1.8.1",
